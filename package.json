@@ -1,0 +1,21 @@
+{
+  "name": "node-proyecto-2026",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de node",
+  "homepage": "https://github.com/Miledraed16/NODE-PROYECTO-2026#readme",
+  "bugs": {
+    "url": "https://github.com/Miledraed16/NODE-PROYECTO-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miledraed16/NODE-PROYECTO-2026.git"
+  },
+  "license": "MIT",
+  "author": "Miled Raed",
+  "type": "module",
+  "main": "hola_mundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hola_mundo.js"
+  }
+}
